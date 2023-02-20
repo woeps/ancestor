@@ -16,20 +16,27 @@
       "subdirs": true
     }
   ],
-
   "package-specs": [
     {
       "module": "commonjs",
       "in-source": true
     }
   ],
-  "jsx": { "version": 4, "mode": "classic" },
+  "jsx": {
+    "version": 4,
+    "mode": "classic"
+  },
   "suffix": ".bs.js",
   "bs-dependencies": [
     "@rescript/react",
     "@ancestor-ui/bindings",
-    "@ancestor-ui/css"
+    "@ancestor-ui/css",
+    "bs-css",
+    "bs-css-emotion"
   ],
-  "bs-dev-dependencies": ["rescript-nodejs", "@greenlabs/rescript-jest"],
+  "bs-dev-dependencies": [
+    "rescript-nodejs",
+    "@greenlabs/rescript-jest"
+  ],
   "ppx-flags": []
 }

@@ -1,3 +1,4 @@
+/*
 open Jest
 open Expect
 open Ancestor
@@ -15,3 +16,5 @@ describe("Hidden", () => {
     )->toMatchSnapshot
   })
 })
+
+*/

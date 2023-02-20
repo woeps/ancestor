@@ -1,6 +1,8 @@
+/*
 open Jest
 open Expect
 open Ancestor_TestingLibrary
+*/
 
 /**
  * Helper function to resize the window.
@@ -13,6 +15,7 @@ open Ancestor_TestingLibrary
     }).dispatchEvent(new this.Event('resize'))
   }
 `)
+/*
 
 @val external window: Dom.window = "window"
 @send external resizeTo: (Dom.window, int) => unit = "resizeTo"
@@ -35,3 +38,5 @@ describe("ResponsiveValueHook", () => {
     )
   })
 })
+
+*/

@@ -1,5 +1,6 @@
 include Ancestor_Core
 
+/*
 module Defaults = {
   module Breakpoints = {
     type breakpoints<'a> = {
@@ -48,7 +49,9 @@ module Defaults = {
     let colors = v => v
   }
 }
+*/
 
+/*
 include Make(
   Defaults.Breakpoints,
   Defaults.Colors,
@@ -56,8 +59,13 @@ include Make(
   Defaults.Radius,
   Defaults.ZIndex,
 )
+*/
 
 /*
  * We need to expose the breakpoints record for the compiler.
  */
+/*
 include Defaults.Breakpoints
+*/
+
+include Make(ExplorationCssTest.TestConfig)

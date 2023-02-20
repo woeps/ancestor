@@ -36,7 +36,8 @@
   },
   "dependencies": {
     "@ancestor-ui/bindings": "0.1.0",
-    "@ancestor-ui/css": "0.3.0"
+    "@ancestor-ui/css": "0.3.0",
+    "bs-css-emotion": "^5.0.0"
   },
   "peerDependencies": {
     "@rescript/react": ">=0.11",

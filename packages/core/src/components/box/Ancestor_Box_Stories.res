@@ -1,3 +1,4 @@
+/*
 open Ancestor
 
 let default = Storybook.story(~title="Components/Box", ())
@@ -39,3 +40,5 @@ let basicUsage = () => {
     </Box>
   </Box>
 }
+
+*/

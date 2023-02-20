@@ -1,3 +1,4 @@
+/*
 open Ancestor
 open Ancestor_Helpers
 
@@ -32,3 +33,5 @@ let \"WithDivider" = () => {
     <Placeholder width={xs: 100.0->#pct, md: 7.2->#rem} />
   </Stack>
 }
+
+*/

@@ -1,3 +1,4 @@
+/*
 open Ancestor
 
 module Colors = {
@@ -22,3 +23,4 @@ module Placeholder = {
       children
     </Box>
 }
+*/

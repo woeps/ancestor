@@ -1,6 +1,6 @@
+/*
 open Ancestor
 open Ancestor_Helpers
-
 
 let default = Storybook.story(~title="Components/Hidden", ())
 
@@ -14,3 +14,5 @@ let basicUsage = () => {
     </Hidden>
   </Box>
 }
+
+*/

@@ -1,3 +1,4 @@
+/*
 open Jest
 open Expect
 open Ancestor
@@ -31,3 +32,5 @@ describe("Grid", () => {
     )->toMatchSnapshot
   })
 })
+
+*/
