@@ -1,3 +1,5 @@
+The upstream project got archived!
+
 ![tests](https://github.com/rescriptbr/ancestor/actions/workflows/tests.yml/badge.svg)
 
 <p align="center">  
